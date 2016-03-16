@@ -1,0 +1,12 @@
+diff a/scripts/description.js b/scripts/description.js	(rejected hunks)
+@@ -11,8 +11,8 @@
+ 			break;
+ 			
+ 		case 1:
+-			updateText("title2",
+-					   "huehuehuehuehuehuehuehue");					   
++			updateText("Step 2: Clone the project",
++					   "Copy the link from Github and clone into local drive using SourceTree");					   
+ 			break;
+ 	}
+ }
