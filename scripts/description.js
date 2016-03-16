@@ -11,8 +11,8 @@ function updateDescription(currentIndex)
 			break;
 			
 		case 1:
-			updateText("title2",
-					   "huehuehuehuehuehuehuehue");					   
+			updateText("title21",
+					   "123123123123123123123123");					   
 			break;
 	}
 }
