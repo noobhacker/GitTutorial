@@ -15,8 +15,6 @@ function updateDescription(currentIndex)
 					   "Copy the link from Github and clone into local drive using SourceTree");					   
 			break;
         
-        case 3:
-            break;
 	}
 }
 
