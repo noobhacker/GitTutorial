@@ -11,8 +11,8 @@ function updateDescription(currentIndex)
 			break;
 			
 		case 1:
-			updateText("title2",
-					   "huehuehuehuehuehuehuehue");					   
+			updateText("Step 2: Clone the project",
+					   "Copy the link from Github and clone into local drive using SourceTree");					   
 			break;
 	}
 }
