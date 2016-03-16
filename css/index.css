@@ -1,0 +1,41 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img 
+{
+    width: 100%;
+    margin: auto;
+}
+
+body
+{
+	font-family: Segoe UI;
+}
+
+.float-left
+{
+	float: left;
+}
+
+.container-override
+{
+	width: 70%; 
+	margin-top:20px;
+}
+
+.header-image
+{
+	max-width:300px;
+}
+
+.my-nav-bar
+{
+	background-color:#0e70ff;
+	height:80px;
+}
+.my-nav-bar-items
+{
+	font-size: 36px;
+	margin-top: 12px;
+	color: white;
+	font-weight: lighter;
+	margin-right:24px;
+}
