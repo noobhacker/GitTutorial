@@ -6,8 +6,8 @@ function updateDescription(currentIndex)
 	switch(currentIndex)
 	{
 		case 0:
-			updateText("title",
-					   "huehuehuehuehue");					   
+			updateText("Step 1: Get the tools ready",
+					   "Make sure you had downloaded all the tools you need before you start.");					   
 			break;
 			
 		case 1:
