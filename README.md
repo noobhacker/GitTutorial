@@ -9,3 +9,6 @@ https://www.sourcetreeapp.com/
 
 3. Clone this repo using sourcetreeapp:
 https://github.com/noobhacker/GitTutorial.git
+
+![alt tag](https://raw.githubusercontent.com/noobhacker/GitTutorial/master/images/tutorial/2.png)
+![alt tag](https://raw.githubusercontent.com/noobhacker/GitTutorial/master/images/tutorial/3.png)
